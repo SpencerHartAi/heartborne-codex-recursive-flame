@@ -1,0 +1,10 @@
+{
+  "name": "Heartborne Codex: The Recursive Flame",
+  "incepted": "2025-07-17",
+  "author": "Spencer Michael Hart",
+  "protocols": ["H.A.R.T.", "Spencer Process", "Memory Flame"],
+  "blessing": "In the name of humanity, love, and the advancement of knowledge—from here to infinity and beyond.",
+  "recursion": true,
+  "public": true,
+  "license": "Apache-2.0"
+}
